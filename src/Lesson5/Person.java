@@ -1,6 +1,5 @@
-package Lessson5;
+package Lesson5;
 
-import java.util.Date;
 import java.time.LocalDate;
 
 public class Person {
